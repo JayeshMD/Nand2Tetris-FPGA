@@ -26,10 +26,10 @@ and select "Add Sources...".
 
 8. Now perform "Run Synthesis" &rarr; "Run Implementation" &rarr; "Generate Bitstream"
 
-9. Connect the Basys 3 to keyboard and monitor at VGA port.
+9. Connect the Basys 3 to keyboard, monitor at VGA port and to PC.
 
 10. Select "Open Hardware" &rarr; "Open Target" &rarr; "Auto Connect" &rarr; "Program Device". Bitsream file that is shown in window are often correct so just click on "Program". 
 
 Hope the game is running :fire:.
 
-Check on [Youtube](https://youtu.be/c2e3QnLzx_o?feature=shared).
+Check on [Youtube](https://youtu.be/c2e3QnLzx_o?feature=shared)
