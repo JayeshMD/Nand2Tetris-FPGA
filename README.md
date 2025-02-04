@@ -2,10 +2,9 @@
 
 <img title="a title" alt="Alt text" src="./images/basys_board.jpg">
 
-This project develops a hardware for a computer based on [Nand2Tetris](https://www.nand2tetris.org) course on building a computer from first principles. 
-The Basys 3 board used is used to implement logic circuit and verilog language is used for implementing circuits.
+This project develops hardware for a computer based on the [Nand2Tetris](https://www.nand2tetris.org) course on building a computer from first principles. The Basys 3 board is used to implement logic circuits, and Verilog language is used for implementing circuits.
 
-In addition to regular Nand2Tetris course here keyboard and VGA display interfaces are implemented directly on hardware (using verilog) to provide same functionality as there in Nand2Tetris simulator.
+In addition to the regular Nand2Tetris courses here, keyboard and VGA display interfaces are implemented directly on the hardware (using Verilog) to provide the same functionality as in the Nand2Tetris simulator.
 
 # How to run Pong Game
 
